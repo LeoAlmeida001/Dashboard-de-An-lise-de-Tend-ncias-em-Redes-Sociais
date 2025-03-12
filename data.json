@@ -1,0 +1,9 @@
+{
+    "trends": [
+        { "hashtag": "Tech", "popularity": 12 },
+        { "hashtag": "#Innovation", "popularity": 19 },
+        { "hashtag": "#AI", "popularity": 3 },
+        { "hashtag": "#Coding", "popularity": 5 },
+        { "hashtag": "#Startups", "popularity": 2 }
+    ]
+}
